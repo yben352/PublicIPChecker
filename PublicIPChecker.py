@@ -8,4 +8,4 @@ def get_public_ip():
         return f"Error: {e}"
 
 if __name__ == "__main__":
-    print("Your public IP address is:", get_public_ip())
+    print("Your public IP address is :", get_public_ip())
